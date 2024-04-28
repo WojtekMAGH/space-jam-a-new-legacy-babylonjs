@@ -3,14 +3,14 @@
   "title": "Get Started",
   "steps": [
     {
-      "file": "README.md",
-      "description": "Welcome to the CodeTour for the fourth module in the *Space Jam: A New Legacy* inspired Microsoft Learn learning path! If you are encountering this CodeTour and want to make sure you're following along with the right module, head over to the [Get started with Babylon.js unit](https://docs.microsoft.com/learn/modules/build-mixed-reality-with-babylonjs/get-started-with-babylonjs) in the Build Mixed Reality with Babylon.js module to follow along!",
-      "line": 43
-    },
-    {
       "file": "src/index.html",
       "description": "The body of the HTML file (or the body of the webpage) contains only one object: the canvas. This is where the 3D mixed reality experience will be rendered. \r\n\r\nAdditionally, you ensure that the webpage knows about the JavaScript file that contains all of the functions that determine interactions. ",
       "line": 26
+    },
+    {
+      "file": "README.md",
+      "description": "Welcome to the CodeTour for the fourth module in the *Space Jam: A New Legacy* inspired Microsoft Learn learning path! If you are encountering this CodeTour and want to make sure you're following along with the right module, head over to the [Get started with Babylon.js unit](https://docs.microsoft.com/learn/modules/build-mixed-reality-with-babylonjs/get-started-with-babylonjs) in the Build Mixed Reality with Babylon.js module to follow along!",
+      "line": 43
     },
     {
       "file": "src/index.ts",
